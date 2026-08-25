@@ -1,0 +1,7 @@
+interface:
+  display_name: "Dataset Card Maintainer"
+  short_description: "Maintain fixed-format biological dataset cards"
+  default_prompt: "Use $dataset-card to create, update, or audit DATASET.md files for the dataset directories I specify."
+
+policy:
+  allow_implicit_invocation: true
